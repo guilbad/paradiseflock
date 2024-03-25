@@ -1,0 +1,257 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family= Gayathri: wght @100;400;700 & display=swap');
+
+
+   backgrond-color: ;
+}
+
+img{
+	
+	width:100%;
+			
+}
+
+tr {
+
+	width: 500px;
+ 	margin: 40px auto;
+ 	background-color: #fff;
+ 	padding: 20px;
+ 	border-radius: 16px;
+ 	box-shadow: 0 0 10px;
+		}
+
+header,#img-topo{
+	 width: 100%;
+	 height: 400px;
+	 background-color: blue;
+	 	
+			
+}
+ nav{
+ 	background-color:#00aaff;
+ 	padding: 4px;
+ 	text-align: center;
+ 	
+ 
+	color: blue;
+	text-decoration: none;
+	font: 1rem 'avenir', sans-serif
+	margin-righf:30px;
+
+}
+
+nav{
+			background-color: #00aaff;
+			width: 100%;
+			height: 20px;
+			position: sticky;
+			top: 0px;
+			z-index: 1;
+			text-align: center;
+			
+		
+
+}
+
+
+main, #pag-beficios, #pag-modalidades, #pag-treinos
+	padding: 40px;
+
+}
+
+
+
+
+h1,h2{
+	text-align: center;
+	color: blue;
+	font-family: 'amatemora',cursive;
+	font-size: 2:5rem;
+	margin-bottom: 20px;
+}
+
+
+
+p{
+	text-align: justify;
+	color: red;
+	font: 1:2rem 'avenir',sans-serif;
+	margin-bottom: 20px;
+
+}
+
+ #pag-beneficios {
+	background-color: red;
+
+}
+
+#pag-beneficios h2,#pag-beneficios p{
+
+   color: blue;
+   margin-bottom: 20px;
+
+}
+
+h2{
+	text-align: left;
+	color: red;
+	font-family: 'amatemora',cursive;
+	font-size: 2:5rem;
+
+}
+
+
+ul{
+	list-style-position: inside;
+	list-style-type: circle;
+	margin-left: 40px;
+}
+
+li{
+	color: blue;
+	font: 1,2rem 'poppins' , sans-serif;
+	line-height: 2rem;
+}
+
+
+.container{
+	display: flex;
+}
+
+
+.cart{
+	background-color: red;
+	width: 25%px;
+	margin-right: 10%px;
+}
+
+
+.img-card{
+	/*width: 100px;
+	border-radius: 16px 16px 0 0;*/
+	width: 500px;
+ 	margin: 40px auto;
+ 	background-color: #fff;
+ 	padding: 20px;
+ 	border-radius: 16px;
+ 	box-shadow: 0 0 10px;
+}
+.conteudo-treinos .container{
+	justify-content: center;
+	align-items: center;
+}
+.img-treinos{
+	/*width: 30px;*/
+	width: 500px;
+ 	margin: 40px auto;
+ 	background-color: #fff;
+ 	padding: 20px;
+ 	border-radius: 16px;
+ 	box-shadow: 0 0 10px;
+}
+video{
+	width: 380px;
+	margin: 10px 10px;
+
+ 	background-color: #fff;
+ 	padding: 15px;
+ 	border-radius: 16px;
+ 	box-shadow: 0 0 50px;
+}
+video{
+	width: 380px;
+	margin: 10px 10px;
+
+ 	background-color: #fff;
+ 	padding: 15px;
+ 	border-radius: 16px;
+ 	box-shadow: 0 0 50px;
+}	
+video{
+	width: 380px;
+	margin: 10px 10px;
+
+ 	background-color: #fff;
+ 	padding: 15px;
+ 	border-radius: 16px;
+ 	box-shadow: 0 0 50px;
+}
+
+
+}
+ footer o, footer a{
+ 	text-align:center;
+ 	color: black; 
+ }
+
+ #pag-formulario p{
+ 	text-align: center;
+ }
+
+ form{
+ 	width: 500px;
+ 	margin: 40px auto;
+ 	background-color: #fff;
+ 	padding: 20px;
+ 	border-radius: 16px;
+ 	box-shadow: 0 0 10px;
+
+}
+ 	label, legend{
+ 		font:  1.1rem 'padding'sans-serif;
+ 		color: #212121;
+
+ 	}
+
+ 
+ input,select, fieldset , textarea{
+ 	width: 100%;
+ 	padding: 6px;
+ 	box-sizing: border-box;
+ 	font: 1rem 'poppins', sans-serif;
+ 	border: 1px solid#ccc;
+ 	border-radius: 6px;
+ 	margin-bottom: 10px;
+ }
+
+ .container-dha{
+ 	display: flex;
+ 	justify-content: space-between;
+ }
+
+ input[type="radio"], input[type="chockbox"]{
+ 	
+ 	
+ }
+
+ #bt-topo {
+			width: 70px;
+			height: 70px;
+			background-color: #00aaff;
+			border-radius: 35px;
+			position: fixed;
+			bottom: 30px;
+			right: 30px;
+			text-align: center;
+		}
+
+
+		#letra-footer {
+			font: 1.0rem 'Times New Roman', sans-serif;
+			color: white;
+			text-align: center;
+		}
+
+
+		footer{	
+			 width: 98%;
+			 height: 80px;
+	 		 margin:70 ;
+			 background-color: #00aaff ;
+			 padding: 15px;
+			 font: 1.0rem 'Times New Roman', sans-serif;
+			 color: white;
+			 text-align: center;
+		}
